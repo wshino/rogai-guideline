@@ -1,3 +1,8 @@
+# rogai-guideline
+
+This guideline purpose is to check if you are fossil. In Japanese, it is called "Rogai".  
+I will regularly retrospective by using with this list.
+
 - [ ] 自分の体験談や自慢話をしなかったか
 - [ ] 自分の体験を若い人に押し付けなかったか
 - [ ] 組織の中に、過去の上下関係を持ってきていないか
